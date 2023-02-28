@@ -76,7 +76,7 @@ void output(char **matrix, int y, int x) {  // ouput our matrix
         }
         printw("\n");
     }
-    printw("                            TO EXITE PRESS X");
+    printw("                            TO EXIT PRESS X");
 }
 
 void input(char **matrix, int y, int x) {  // input out matrix
